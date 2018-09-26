@@ -1,0 +1,10 @@
+name: report-converter
+title:
+username:
+account: aaroncoyner
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 470048
+bundleId: 1606101
+url: https://aaroncoyner.shinyapps.io/report-converter/
+when: 1537938062.57122
