@@ -21,7 +21,7 @@ ui <- fluidPage(
       tags$hr(),
       radioButtons("disp", "Display",
                    choices = c(Head = "head", All = "all"),
-                   selected = "head"),
+                   selected = "all"),
       tags$hr(),
       downloadButton('downloadData', 'Download')),
     
